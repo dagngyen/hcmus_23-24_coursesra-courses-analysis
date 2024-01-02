@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html >
+<!--From https://codepen.io/frytyler/pen/EGdtg-->
+<head>
+  <title>Courses's Rating Prediction</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Arimo' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Hind:300' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+
+  <script>
+    function showPopup(message) {
+      alert(message); 
+    }
+  </script>
+</head>
+
+<body>
+    <header>
+        <h1>Courses's Rating Prediction</h1>
+    </header>
+
+    <div class="login">
+        <br>
+        <br>
+        <form action="{{ url_for('predict') }}" method="post">
+            <div class="form-group">
+                <label class="control-label col-sm-2" for="enrollment">Number of Enrollment:</label>
+                <div class="col-sm-10">
+                    <input type="number" class="form-control" id="enrollment" placeholder="Enter number of enrollment:" name="enrollment" required>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label class="control-label col-sm-2" for="duration">Duration:</label>
+                <div class="col-sm-10">
+                    <input type="number" class="form-control" id="duration" placeholder="Enter duration:" name="duration" required>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label class="control-label col-sm-2" for="ins_rate">Instructor Rate:</label>
+                <div class="col-sm-10">
+                    <input type="number" step="any" class="form-control" id="ins_rate" placeholder="Enter instructor's rating:" name="ins_rate" required>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label class="control-label col-sm-2" for="general">General Topic:</label>
+                <div class="col-sm-10">
+                    <input type="text" class="form-control" id="general" placeholder="Enter general topic:" name="general" required>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label class="control-label col-sm-2" for="specific">Specific Topic:</label>
+                <div class="col-sm-10">
+                    <input type="text" class="form-control" id="specific" placeholder="Enter specific topic:" name="specific" required>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label class="control-label col-sm-2" for="language">Language:</label>
+                <div class="col-sm-10">
+                    <input type="text" class="form-control" id="language" placeholder="Enter language:" name="language" required>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label class="control-label col-sm-2" for="level">Level:</label>
+                <div class="col-sm-10">
+                    <input type="text" class="form-control" id="level" placeholder="Enter level:" name="level" required>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label class="control-label col-sm-2" for="offered">Offered By:</label>
+                <div class="col-sm-10">
+                    <input type="text" class="form-control" id="offered" placeholder="Enter provider:" name="offered" required>
+                </div>
+            </div>
+
+            <button type="submit" class="btn btn-primary btn-block btn-large">Submit</button>
+        </form>
+
+        <script>
+            var predictionText = "{{ prediction_text }}";
+            if (predictionText) {
+            showPopup(predictionText);
+            }
+        </script>
+        
+    </div>
+</body>
+</html>
