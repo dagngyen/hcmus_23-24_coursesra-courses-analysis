@@ -2,7 +2,6 @@ name,general,specify,enrollment,language,rating,level,duration,instructor,instru
 Cyber Threat Intelligence,Information Technology,Security,52299,English,4.7,Beginner,25,IBM Skills Network Team,4.5,IBM
 Network Security,Information Technology,Security,6909,English,4.7,Beginner,8,(ISC)² Education & Training,4.9,ISC2
 Security Principles,Information Technology,Security,12400,English,4.7,Beginner,5,(ISC)² Education & Training,4.6,ISC2
-"Grow Your Business with Goldman Sachs 10,000 Women",Business,Entrepreneurship,50738,English,4.8,Other,4,,4.7,
 "Fundamentals of Negotiation, with Goldman Sachs 10,000 Women",Business,Entrepreneurship,20097,English,4.6,Other,4,"Mori Taheripour, Goldman Sachs 10,000 Women, Edward David, Geetha Krishnan, Michael Fetters, Anne Donnellon, Sarah Underwood",4.6,Goldman Sachs
 "Fundamentals of Business Finance, with Goldman Sachs 10,000 Women",Business,Entrepreneurship,42118,English,4.7,Other,4,"Mori Taheripour, Goldman Sachs 10,000 Women, Edward David, Geetha Krishnan, Michael Fetters, Anne Donnellon, Sarah Underwood",4.7,Goldman Sachs
 "Fundamentals of Leadership, with Goldman Sachs 10,000 Women",Business,Entrepreneurship,24682,English,4.7,Other,3,"Mori Taheripour, Goldman Sachs 10,000 Women, Edward David, Geetha Krishnan, Michael Fetters, Anne Donnellon, Sarah Underwood",4.7,Goldman Sachs
@@ -55,8 +54,6 @@ Design Computing: 3D Modeling in Rhinoceros with Python/Rhinoscript,Computer Sci
 3D Printing Capstone,Business,Entrepreneurship,4410,English,4.4,Beginner,5,Alex Larson,3.7,University of Illinois at Urbana-Champaign
 The 3D Printing Revolution,Business,Entrepreneurship,49472,English,4.7,Beginner,10,Aric Rindfleisch,4.7,University of Illinois at Urbana-Champaign
 3D Printing Software,Business,Entrepreneurship,43064,English,4.6,Beginner,15,Jeffrey Smith,4.8,University of Illinois at Urbana-Champaign
-3D Reconstruction - Single Viewpoint ,Computer Science,Algorithms,3272,English,4.9,Beginner,11,,4.7,
-3D Reconstruction - Multiple Viewpoints,Computer Science,Algorithms,3027,English,4.7,Beginner,8,,4.7,
 4G Network Fundamentals,Information Technology,Networking,3943,English,4.6,Intermediate,16,Xavier Lagrange,4.7,Institut Mines-Télécom
 4G : Principes des réseaux mobiles,Information Technology,Networking,13926,French,4.6,Intermediate,19,Xavier Lagrange,4.6,Institut Mines-Télécom
 5G Network Fundamentals,Information Technology,Networking,3304,English,4.8,Intermediate,19,Xavier Lagrange,4.9,Institut Mines-Télécom
@@ -414,7 +411,6 @@ Arctic Peoples and Cultures ,Social Sciences,Governance and Society,13926,Englis
 Arduino y algunas aplicaciones,Computer Science,Design and Product,90205,Spanish,4.6,Other,16,Yukihiro Minami Koyama,4.5,Universidad Nacional Autónoma de México
 The Arduino Platform and C Programming,Computer Science,Software Development,186137,English,4.7,Other,12,Ian Harris,4.7,"University of California, Irvine"
 Ancient Philosophy: Aristotle and His Successors,Arts and Humanities,Philosophy,67355,English,4.8,Other,15,Susan Sauvé Meyer,4.9,University of Pennsylvania
-Arm Cortex-M Processors Overview,Computer Science,Software Development,4545,English,4.7,Intermediate,2,,4.7,
 Armv8-M Architecture Fundamentals,Computer Science,Software Development,2910,English,4.7,Intermediate,13,"Matt Rushton, Edmund Player, Peter Rielly, Salman Arif, Nick Tompkins, Shirley Zou, Yang Song, Graham Cunningham",4.5,Arm
 Aromatherapy: Clinical Use of Essential Oils,Health,Research,21364,English,4.9,Beginner,16,"Janet Tomaino, DNP",4.9,University of Minnesota
 Arranging for Songwriters,Arts and Humanities,Music and Art,13691,English,4.4,Intermediate,8,"Sarah Brindell, Bonnie Hayes",4.7,Berklee
@@ -761,8 +757,6 @@ C for Everyone: Programming Fundamentals,Computer Science,Software Development,2
 C Programming: Advanced Data Types - 5,Computer Science,Software Development,2950,English,4.4,Beginner,7,"Rémi SHARROCK, Dartmouth College, Petra Bonfert-Taylor",4.6,Institut Mines-Télécom
 C Programming: Getting Started - 1,Computer Science,Software Development,12157,English,4.6,Beginner,11,"Rémi SHARROCK, Dartmouth College, Petra Bonfert-Taylor",4.8,Institut Mines-Télécom
 C Programming: Language Foundations - 2,Computer Science,Software Development,3299,English,4.7,Beginner,13,"Rémi SHARROCK, Dartmouth College, Petra Bonfert-Taylor",4.8,Institut Mines-Télécom
-C Programming: Modular Programming and Memory Management - 3,Computer Science,Software Development,2591,English,4.7,Beginner,10,,4.7,
-C Programming: Pointers and Memory Management - 4,Computer Science,Software Development,2828,English,4.7,Beginner,7,,4.7,
 C Programming: Using Linux Tools and Libraries - 7,Computer Science,Software Development,2027,English,4.7,Beginner,9,"Rémi SHARROCK, Dartmouth College, Petra Bonfert-Taylor",4.7,Institut Mines-Télécom
 C# for .NET Developers,Computer Science,Software Development,5325,English,4.0,Intermediate,16,Board Infinity,3.4,Board Infinity 
 C for Everyone: Structured Programming,Computer Science,Software Development,59989,English,4.6,Intermediate,9,Ira Pohl,4.4,"University of California, Santa Cruz"
@@ -1256,7 +1250,6 @@ Cryptography I,Computer Science,Computer Security and Networks,441452,English,4.
 Blockchain and Cryptocurrency Explained,Business,Finance,42024,English,4.7,Beginner,8,"Robert Dittmar, Andrew Wu",4.7,University of Michigan
 Cryptography and Hashing Overview,Computer Science,Algorithms,6874,English,4.6,Beginner,9,Stefano M. Stefan,4.0,"University of California, Irvine"
 Cryptography and Information Theory,Computer Science,Computer Security and Networks,20343,English,4.5,Intermediate,7,Sang-Yoon Chang,4.8,University of Colorado System
-Cryptography II,,,53358,English,4.7,Other,1,Dan Boneh,4.7,Stanford University
 Bitcoin and Cryptocurrency Technologies,Computer Science,Computer Security and Networks,756678,English,4.6,Other,23,Arvind Narayanan,4.6,Princeton University
 Cryptographic Hash and Integrity Protection,Computer Science,Computer Security and Networks,7529,English,4.5,Intermediate,9,Sang-Yoon Chang,4.6,University of Colorado System
 Cryptography,Computer Science,Computer Security and Networks,64483,English,4.6,Other,17,Jonathan  Katz,4.7,"University of Maryland, College Park"
@@ -1807,7 +1800,6 @@ Engineering Health: Introduction to Yoga and Physiology,Health,Basic Science,583
 Introduction to Public Health Engineering in Humanitarian Contexts,Physical Science and Engineering,Environmental Science and Sustainability,10733,English,4.7,Beginner,12,"Javier Cordoba, Christoph Lüthi",4.7,École Polytechnique Fédérale de Lausanne
 Introduction to Engineering Mechanics,Physical Science and Engineering,Mechanical Engineering,246813,English,4.8,Other,15,"Dr. Wayne Whiteman, PE",4.8,Georgia Institute of Technology
 Applications in Engineering Mechanics,Physical Science and Engineering,Mechanical Engineering,67409,English,4.8,Other,15,"Dr. Wayne Whiteman, PE",4.8,Georgia Institute of Technology
-Engineering of Structures: Response of Structures,Physical Science and Engineering,Mechanical Engineering,13926,English,5.0,Beginner,16,,4.7,
 Engineering of Structures: Tension,Physical Science and Engineering,Mechanical Engineering,1501,English,4.9,Beginner,13,Vicki May,4.9,Dartmouth College
 Engineering Practices for Building Quality Software,Computer Science,Software Development,28815,English,4.5,Intermediate,18,Kevin Wendt,4.3,University of Minnesota
 Writing Skills for Engineering Leaders,Business,Leadership and Management,18346,English,4.7,Beginner,16,"Gayle Moran, Beata Krupa",4.6,Rice University
@@ -2056,7 +2048,6 @@ Feature Engineering em Português Brasileiro,Data Science,Machine Learning,13926
 Feature Engineering en Español,Data Science,Machine Learning,2940,Spanish,4.3,Intermediate,14,Google Cloud Training,3.8,Google Cloud
 Feature Engineering 日本語版,Data Science,Machine Learning,13926,Japanese,4.5,Intermediate,12,Google Cloud Training,4.7,Google Cloud
 Data Processing and Feature Engineering with MATLAB,Data Science,Data Analysis,14316,English,4.7,Intermediate,20,"Amanda  Wang, Matt Rich, Cris LaPierre, Adam Filion, Maria Gavilan-Alfonso, Isaac Bruss, Brian Buechel, Michael Reardon, Heather Gorr, Nikola Trica, Brandon Armstrong, Erin Byrne",4.7,MathWorks
-Features and Boundaries,Computer Science,Algorithms,3272,English,4.8,Beginner,22,,4.7,
 Federal Taxation II: Property Transactions of Business Owners and Shareholders,Business,Business Essentials,8199,English,4.9,Intermediate,30,Matthew Hutchens,5.0,University of Illinois at Urbana-Champaign
 "Federal Taxation I: Individuals, Employees, and Sole Proprietors",Business,Business Essentials,30540,English,4.9,Intermediate,30,Matthew Hutchens,4.9,University of Illinois at Urbana-Champaign
 Giving Helpful Feedback,Business,Business Essentials,47831,English,4.8,Beginner,5,Tracy Jennings,4.8,University of Colorado Boulder
@@ -2103,7 +2094,6 @@ Term-Structure and Credit Derivatives ,Business,Finance,6749,English,4.6,Interme
 Financial Forecasting and Reporting,Business,Leadership and Management,3525,English,4.7,Intermediate,13,"Michael J. Readey, Ph.D.",4.6,University of Colorado Boulder
 الثقافة المالية | Financial Literacy,Social Sciences,Economics,3743,Arabic,4.9,Beginner,4,Alfaisal.KLD,4.8,Alfaisal University | KLD
 Financial Management Capstone,Business,Finance,8336,English,4.7,Intermediate,8,Jeff Flesher,4.6,University of Illinois at Urbana-Champaign
-Financial Management for Product Leaders,Business,Finance,4111,English,4.6,Beginner,9,,4.7,
 Financial Markets,Business,Finance,1739,English,4.8,Beginner,33,Robert Shiller,4.8,Yale University
 Mercados financieros,Business,Finance,38692,Spanish,4.9,Beginner,33,Robert Shiller,4.9,Yale University
 Marchés financiers,Business,Finance,5800,French,4.8,Beginner,33,Robert Shiller,4.8,Yale University
@@ -2151,7 +2141,6 @@ Física: Dimensión y Movimiento,Physical Science and Engineering,Physics and As
 Conceptos y Herramientas para la Física Universitaria,Physical Science and Engineering,Physics and Astronomy,41155,Spanish,4.6,Other,18,"Ing. José Rodrigo  Salmón Folgueras, Ing. Rodolfo Fernández de Lara Hadad, Dr. Genaro Zavala Enríquez",4.6,Tecnológico de Monterrey
 "Física: Vectores, Trabajo y Energía",Physical Science and Engineering,Physics and Astronomy,26863,Spanish,4.2,Other,12,"Ing. José Rodrigo  Salmón Folgueras, Ing. Rodolfo Fernández de Lara Hadad, Dr. Genaro Zavala Enríquez",4.8,Tecnológico de Monterrey
 Fitting Statistical Models to Data with Python,Data Science,Probability and Statistics,32497,English,4.4,Intermediate,15,"Kerby Shedden, Brenda Gunderson, Brady T. West",4.6,University of Michigan
-U.S. Bond Investing Basics,Business,Finance,5778,English,4.6,Beginner,15,,4.7,
 Fixing Healthcare Delivery,Health,Healthcare Management,13800,English,4.7,Other,13,"Frederick S. Southwick, MD",4.7,University of Florida
 Fixing Healthcare Delivery 2.0: Advanced Lean,Health,Healthcare Management,4949,English,4.7,Other,16,"Frederick S. Southwick, MD",4.6,University of Florida
 Flight mechanics - Propulsive balance and energy,Physical Science and Engineering,Physics and Astronomy,1703,English,4.6,Intermediate,6,Eric Poquillon,4.3,ISAE-SUPAERO
@@ -2389,7 +2378,6 @@ Gerenciamento de mídias sociais,Business,Marketing,13926,Portuguese (Brazilian)
 Gerenciamento de projetos Agile,Business,Leadership and Management,4181,Portuguese (Brazilian),4.9,Beginner,22,Google Career Certificates,5.0,Google
 Gerenciamento de Serviços de TI,Information Technology,Support and Operations,13926,Portuguese (Brazilian),4.6,Beginner,30,Manoel Veras,4.7,Fundação Instituto de Administração
 Gestão da Cadeia de Suprimentos,Business,Business Essentials,13926,Portuguese (Brazilian),5.0,Beginner,36,Aluizio Faria,4.7,Fundação Instituto de Administração
-Gestão de Dados Científicos,Information Technology,Data Management,13926,Portuguese (Brazilian),4.8,Intermediate,3,,4.7,
 Gestão de Marca & Crise de Imagem,Business,Marketing,4170,Portuguese (Brazilian),4.8,Intermediate,22,Alexandre Borba Salvador,4.9,Fundação Instituto de Administração
 Gestão de Operações,Business,Business Strategy,21089,Portuguese (Brazilian),4.8,Beginner,18,André Luís de Castro Moura Duarte,4.9,Insper
 "Gestão de Stakeholders, Ética e Sustentabilidade Empresarial",Business,Business Essentials,13926,Portuguese (Brazilian),4.7,Beginner,25,"João Maurício Gama Boaventura, Flávio Hourneaux Junior",4.7,Fundação Instituto de Administração
@@ -2891,7 +2879,6 @@ Becoming Part of the Globalised Workplace,Personal Development,Personal Developm
 Comprender las dimensiones interculturales en la cotidianidad,Personal Development,Personal Development,10522,Spanish,4.8,Intermediate,26,"Muriel Molinié, Paola Andrea Gamboa Diaz, Anne-Marie Truscott, Isabel Tejada",4.7,Universidad de los Andes
 Interest Rate Models,Business,Finance,33196,English,4.5,Advanced,29,Damir Filipović,4.5,École Polytechnique Fédérale de Lausanne
 Interfacing with the Arduino,Physical Science and Engineering,Electrical Engineering,108611,English,4.7,Other,11,Ian Harris,4.8,"University of California, Irvine"
-Introduction to Integrative Nursing,Health,Patient Care,7725,English,4.7,Beginner,15,,4.7,
 Intermediate Grammar Project,Language Learning,Learning English,13719,English,4.7,Intermediate,24,"Tamy Chapman, Brad Gilpin",4.8,"University of California, Irvine"
 Intermediate Object-Oriented Programming for Unreal Games,Computer Science,Software Development,2235,English,4.8,Intermediate,15,"Dr. Tim ""Dr. T"" Chamillard",4.7,University of Colorado System
 Intermediate Object-Oriented Programming for Unity Games,Computer Science,Software Development,17197,English,4.6,Intermediate,52,"Dr. Tim ""Dr. T"" Chamillard",4.8,University of Colorado System
@@ -3424,7 +3411,6 @@ Doğrusal Cebir I: Uzaylar ve İşlemciler / Linear Algebra I: Spaces and Operat
 "Linguistic Diversity, What for?",Social Sciences,Governance and Society,3359,English,4.7,Beginner,14,"Katjuscia Mattu, Mònica Pereña Pérez, Eva Pons Parera, Enric Serra i Casals, Maite Melero, Carme Arenas Noguera, Mercè Solé Sanosa, Miquel Strubell i Trueta, Emili Boix",4.6,Universitat Autònoma de Barcelona
 Linux and Bash for Data Engineering,Information Technology,Data Management,6832,English,4.7,Intermediate,22,"Alfredo Deza, Kennedy Behrman, Noah Gift",4.6,Duke University
 Tools of the Trade: Linux and SQL,Computer Science,Computer Security and Networks,97713,English,4.8,Beginner,27,Google Career Certificates,4.8,Google
-Linux Basics: The Command Line Interface - 6,Computer Science,Software Development,3295,English,4.7,Beginner,7,,4.7,
 Linux Cloud and DevOps,Computer Science,Software Development,4971,English,4.3,Beginner,12,Aspen Olmsted,4.7,LearnQuest
 Linux for Developers,Computer Science,Software Development,39399,English,4.5,Beginner,19,Jerry Cooperstein,4.4,The Linux Foundation
 Linux Fundamentals,Computer Science,Software Development,34406,English,4.5,Beginner,17,Aspen Olmsted,4.5,LearnQuest
@@ -3735,7 +3721,6 @@ Microsoft Azure Machine Learning for Data Scientists,Data Science,Machine Learni
 Microsoft Azure Management Tools and Security Solutions,Information Technology,Cloud Computing,23144,English,4.7,Beginner,8, Microsoft,4.7,Microsoft
 Microsoft Azure Services and Lifecycles,Information Technology,Cloud Computing,16740,English,4.8,Beginner,7, Microsoft,4.8,Microsoft
 Microsoft Azure SQL,Information Technology,Data Management,12468,English,4.6,Beginner,6, Microsoft,4.5,Microsoft
-Prepare for DP-203: Data Engineering on Microsoft Azure Exam,Data Science,Data Analysis,5693,English,4.4,Intermediate,5,,4.7,
 Preparing for DP-900: Microsoft Azure Data Fundamentals Exam,Information Technology,Data Management,6540,English,4.7,Beginner,5, Microsoft,4.9,Microsoft
 Work Smarter with Microsoft Excel,Business,Business Essentials,109097,English,4.7,Beginner,20, Microsoft,4.7,Microsoft
 أساسيات مايكروسوفت آوتلوك | Microsoft Outlook Fundamentals,Data Science,Machine Learning,13926,Arabic,4.8,Beginner,3,Alfaisal.KLD,4.7,Alfaisal University | KLD
@@ -5233,7 +5218,6 @@ Grundlagen des technischen Supports,Information Technology,Support and Operation
 Princípios básicos de apoio técnico,Information Technology,Support and Operations,13926,Portuguese (European),4.9,Beginner,22,Google Career Certificates,5.0,Google
 Основы технической поддержки,Information Technology,Support and Operations,2797,Russian,4.8,Beginner,22,Google Career Certificates,4.9,Google
 Основи технічної підтримки,Information Technology,Support and Operations,4664,Ukrainian,4.9,Beginner,20,"Google Career Certificates, Onlea support",4.8,Google
-Techniques of Design-Oriented Analysis,Physical Science and Engineering,Electrical Engineering,2738,English,4.9,Intermediate,12,,4.7,
 Technologies and platforms for Artificial Intelligence,Computer Science,Algorithms,13926,English,4.7,Beginner,2,Manuel Roveri,4.7,Politecnico di Milano
 "Technology Commercialization, Part 1: Setting up your Idea Filtering System",Business,Entrepreneurship,4311,English,4.2,Beginner,8,Mark Wilson,4.3,University of Rochester
 The Technology of Music Production,Arts and Humanities,Music and Art,63702,English,4.8,Beginner,17,Loudon Stearns,4.8,Berklee
