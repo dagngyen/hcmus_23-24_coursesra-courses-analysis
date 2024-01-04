@@ -3,7 +3,7 @@ from flask import Flask, request, jsonify, render_template
 import pickle
 
 app = Flask(__name__)
-model = pickle.load(open('model.pkl', 'rb'))
+model = pickle.load(open('Phase 3: Deploying model/model.pkl', 'rb'))
 
 @app.route('/')
 def home():
@@ -33,11 +33,12 @@ def predict():
 
     final_features = pd.DataFrame(data)
     prediction = model.predict(final_features)
-    if prediction[0][0] > 5.0:
+    
+    if prediction[0] > 5.0:
         prediction = 5
     else:
-        prediction = prediction[0][0]
-
+        prediction = prediction[0]
+    
     return render_template('index.html', prediction_text='Rating is {:.3f}'.format(prediction))
 
 
@@ -45,10 +46,10 @@ def predict():
 def predict_api():
     data = request.get_json(force=True)
     prediction = model.predict(pd.DataFrame(data))
-    if prediction[0][0] > 5.0:
+    if prediction[0] > 5.0:
         output = 5
     else:
-        output = prediction[0][0]
+        output = prediction[0]
     return jsonify(output)
 
 if __name__ == "__main__":
