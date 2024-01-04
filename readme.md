@@ -1,6 +1,6 @@
-# Final project - Programming for Data Science
+# Final project - Introduction to Data Science
 
-- Lập trình Khoa học dữ liệu 
+- Nhập môn Khoa học dữ liệu 
 - Học kì I - Năm học: 2023 - 2024
 
 ## Thành viên
@@ -16,3 +16,6 @@
 
 ## Dữ liệu
 - Link: https://www.coursera.org/
+
+## Github
+- Link: https://github.com/iam-Dylan/final-project-intro2ds/
